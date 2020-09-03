@@ -1,1 +1,1 @@
-# comp_simulations
+# comp_simulations group project
